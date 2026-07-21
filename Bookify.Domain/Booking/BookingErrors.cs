@@ -26,5 +26,9 @@ namespace Bookify.Domain.Booking
         public static Error AlreadyStarted = new(
             "Booking.AlreadyStarted",
             "The booking has already started");
+
+        public static Error NotPending = new(
+            "Booking.NotPending",
+            "The booking is not pending");
     }
 }

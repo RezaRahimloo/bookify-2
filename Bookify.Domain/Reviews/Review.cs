@@ -1,5 +1,6 @@
 ﻿using Bookify.Domain.Abstractions;
 using Bookify.Domain.Booking;
+using Bookify.Domain.Reviews.Events;
 using System;
 using System.Collections.Generic;
 using System.Text;
