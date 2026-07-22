@@ -1,6 +1,7 @@
 ﻿using Bookify.Domain.Apartments;
 using Bookify.Domain.Booking;
 using Bookify.Domain.Users;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
